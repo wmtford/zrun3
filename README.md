@@ -1,5 +1,4 @@
-# znunu
-Text files and common code for RA2b Zinv analysis, Run 3
+# Text files and common code for RA2b Zinv analysis, Run 3
 
 Run 2 version created from a fork of tmulholland/z-team-assembly 17 Aug. 2018.
 Create script RA2bUtils from Troy's omnibus RA2b.py script, keeping
